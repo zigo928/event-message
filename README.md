@@ -1,6 +1,6 @@
 # event-message
 
-> A Vue.js project
+> A Vue.js project for vuex modules and modules namespace
 
 ## Build Setup
 
